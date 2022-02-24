@@ -1,2 +1,3 @@
 # Aula 01
-Aula de linguagem de programação. 
+Primeira aula de linguagem de programação.
+Este é o primeiro repositório e irei adicionar meus primeiros arquivos. Para abrir os documentos desse repositório basta clicar duas vezes.
